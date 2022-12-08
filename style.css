@@ -1,17 +1,11 @@
-body {background-color:pink;}
-div {
-    float: left;
-    padding: 15px;
-  }
+body {background-color:pink;
+  align-items: center;
+  align-content: center;
+}
+
+header {align-items: center;
+  align-content: center;
+  padding-left: 40%;
+}
+
   
-  .div1 {
-    background: red;
-  }
-  
-  .div2 {
-    background: yellow;
-  }
-  
-  .div3 {
-    background: green;
-  }
