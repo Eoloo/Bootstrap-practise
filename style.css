@@ -1,4 +1,4 @@
-body {background-color:pink;
+body {background-image:"mango.jpg";
   align-items: center;
   align-content: center;
 }
@@ -10,4 +10,9 @@ header {align-items: center;
 #nav {align-items: center;
   padding-left: 10%;
 }
-  
+.color1 {
+  background-color: crimson;
+}
+.color2 {
+  background-color: yellow;
+}
